@@ -1,0 +1,26 @@
+.link{
+    text-decoration: none;
+    margin: 0.5vmax;
+    margin-left: 1vmax;
+    color: black;
+    transition: all 0.5s;
+    font-weight: 400;
+}
+.links{
+    display: flex;
+    margin-left: 25%;
+    
+   
+}
+.link:hover{
+    color: black;
+    border-bottom: 1px solid black; 
+}
+.logo{
+    margin-left: 10%;
+    transition: all 0.5s;
+}
+.logo:hover{
+
+    transform: translateY(-0.5vmax);
+}

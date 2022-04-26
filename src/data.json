@@ -1,0 +1,119 @@
+{
+    
+    "Shoes": [
+          {
+                "name": "ABC",
+                "reviews":"80",
+                "_id":1,
+                "price": "Rs 2000/-",
+                "p":2000,
+                "stars":2,
+                "type":"Loafers",
+                
+                "image": [
+                    "https://rukminim1.flixcart.com/image/452/542/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                    "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                    "https://rukminim1.flixcart.com/image/800/960/k3xcdjk0pkrrdj/shoe/e/e/g/7-ds-1603-d-sneakerz-dss-16603-white-7-original-imaf8uh455tngxwx.jpeg?q=50",
+                    "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/f/r/y/6-ds-1603-d-sneakerz-dss-16603-white-6-original-imaf8uh4us8uugtg.jpeg?q=50"
+                ]
+          },
+          {
+            "name": "DEF",
+            "reviews":"50",
+            "_id":2,
+            "p":5000,
+            "price": "Rs 5000/-",
+            "stars":3,
+            "type":"Loafers",
+            "image": [
+                "https://rukminim1.flixcart.com/image/452/542/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                "https://rukminim1.flixcart.com/image/800/960/k3xcdjk0pkrrdj/shoe/e/e/g/7-ds-1603-d-sneakerz-dss-16603-white-7-original-imaf8uh455tngxwx.jpeg?q=50",
+                "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/f/r/y/6-ds-1603-d-sneakerz-dss-16603-white-6-original-imaf8uh4us8uugtg.jpeg?q=50"
+            ]  },
+            {
+                "name": "GHI",
+                "reviews":"40",
+                "_id":3,
+                "price": "Rs  6000/-",
+                "p":6000,
+                "stars":3.5,
+                "type":"Loafers",
+                "image": [
+                    "https://rukminim1.flixcart.com/image/452/542/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                    "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                    "https://rukminim1.flixcart.com/image/800/960/k3xcdjk0pkrrdj/shoe/e/e/g/7-ds-1603-d-sneakerz-dss-16603-white-7-original-imaf8uh455tngxwx.jpeg?q=50",
+                    "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/f/r/y/6-ds-1603-d-sneakerz-dss-16603-white-6-original-imaf8uh4us8uugtg.jpeg?q=50"
+                ]  },
+                {
+                    "name": "JKL",
+                    "reviews":"30",
+                    "_id":4,
+                    "price": "Rs 8000/-",
+                    "p":8000,
+                    "stars":4.5,
+                    "type":"Loafers",
+                    "image": [
+                        "https://rukminim1.flixcart.com/image/452/542/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                        "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                        "https://rukminim1.flixcart.com/image/800/960/k3xcdjk0pkrrdj/shoe/e/e/g/7-ds-1603-d-sneakerz-dss-16603-white-7-original-imaf8uh455tngxwx.jpeg?q=50",
+                        "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/f/r/y/6-ds-1603-d-sneakerz-dss-16603-white-6-original-imaf8uh4us8uugtg.jpeg?q=50"
+                    ]  },
+                    {
+                        "name": "MKP",
+                        "reviews":"60",
+                        "_id":5,
+                        "price": "Rs 5000/-",
+                        "p":5000,
+                        "stars":5,
+                        "type":"Sneakers",
+                        "image": [
+                            "https://rukminim1.flixcart.com/image/452/542/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                            "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                            "https://rukminim1.flixcart.com/image/800/960/k3xcdjk0pkrrdj/shoe/e/e/g/7-ds-1603-d-sneakerz-dss-16603-white-7-original-imaf8uh455tngxwx.jpeg?q=50",
+                            "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/f/r/y/6-ds-1603-d-sneakerz-dss-16603-white-6-original-imaf8uh4us8uugtg.jpeg?q=50"
+                        ]  },
+                        {
+                            "name": "MKP",
+                            "reviews":"90",
+                            "_id":6,
+                            "price": "Rs 5000/-",
+                            "p":5000,
+                            "stars":5,
+                            "type":"Sneakers",
+                            "image": [
+                                "https://rukminim1.flixcart.com/image/452/542/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                                "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                                "https://rukminim1.flixcart.com/image/800/960/k3xcdjk0pkrrdj/shoe/e/e/g/7-ds-1603-d-sneakerz-dss-16603-white-7-original-imaf8uh455tngxwx.jpeg?q=50",
+                                "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/f/r/y/6-ds-1603-d-sneakerz-dss-16603-white-6-original-imaf8uh4us8uugtg.jpeg?q=50"
+                            ]  },
+                            {
+                                "name": "MKP",
+                                "reviews":"100",
+                                "_id":8,
+                                "price": "Rs 5000/-",
+                                "p":5000,
+                                "stars":5,
+                                "type":"Sneakers",
+                                "image": [
+                                    "https://rukminim1.flixcart.com/image/452/542/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                                    "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                                    "https://rukminim1.flixcart.com/image/800/960/k3xcdjk0pkrrdj/shoe/e/e/g/7-ds-1603-d-sneakerz-dss-16603-white-7-original-imaf8uh455tngxwx.jpeg?q=50",
+                                    "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/f/r/y/6-ds-1603-d-sneakerz-dss-16603-white-6-original-imaf8uh4us8uugtg.jpeg?q=50"
+                                ]  },
+                                {
+                                    "name": "MKP",
+                                    "reviews":"30",
+                                    "_id":7,
+                                    "price": "Rs 5000/-",
+                                    "p":5000,
+                                    "stars":5,
+                                    "type":"Sneakers",
+                                    "image": [
+                                        "https://rukminim1.flixcart.com/image/452/542/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                                        "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/m/u/j/10-ds-1603-d-sneakerz-dss-16603-white-10-original-imaf8uh4a7fecktf.jpeg?q=50",
+                                        "https://rukminim1.flixcart.com/image/800/960/k3xcdjk0pkrrdj/shoe/e/e/g/7-ds-1603-d-sneakerz-dss-16603-white-7-original-imaf8uh455tngxwx.jpeg?q=50",
+                                        "https://rukminim1.flixcart.com/image/714/857/k3xcdjk0pkrrdj/shoe/f/r/y/6-ds-1603-d-sneakerz-dss-16603-white-6-original-imaf8uh4us8uugtg.jpeg?q=50"
+                                    ]  }
+    ]
+}

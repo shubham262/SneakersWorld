@@ -1,0 +1,100 @@
+.store{
+    display:flex;
+    flex-direction: row;
+
+    padding: 2vmax;
+}
+.filters {
+    background-color: white;
+    margin-right: 3vmax;
+    padding: 2vmax 4vmax;
+    box-shadow: -2px 3px 16px 0px rgba(0,0,0,0.58);
+    height:40vmax;
+}.shoes {
+    background-color: white;
+    margin-right: 3vmax; 
+    box-shadow: -2px 3px 16px 0px rgba(0,0,0,0.58);   
+    width: 52vmax;
+    height:40vmax;
+    overflow: scroll;
+    overflow-x: hidden;
+   
+}
+
+.cart{
+background-color: white;    margin-right:0vmax; box-shadow: -2px 3px 16px 0px rgba(0,0,0,0.58);
+ height:40vmax;width:25vmax;
+}
+.colbtn{
+    margin-right: 1vmax;
+   width: 2vmax;
+   height: 2vmax;
+   border: none;
+}
+.colbtn:hover{
+    border: 1px solid black;
+}
+.r{
+    background-color: red;
+
+}
+.g{
+    background-color: green;
+}
+.y{
+    background-color: yellow;
+}
+.b{
+    background-color: blue;
+}
+.costchecks{
+    margin-top: 0;
+}
+.cost{
+    margin-bottom: 0;margin-top: 1vmax;
+}
+.color{
+    margin-bottom: 0;margin-top: 1vmax;
+}
+.type{
+    margin-bottom: 0;
+    margin-top: 1vmax;
+}
+
+.shoebox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.shoecard{
+    margin:2vmax 1vmax 3vmax 1vmax;cursor: pointer;border: none;
+}
+.emptycart{
+    margin: 10vmax 3vmax;
+}
+ .btnholder{
+    justify-content:center;
+    display: flex;
+    margin-top: 18vmax;
+    
+    
+  }
+  .btnholder>button{
+    background-color: #1976d2;border: none;color:white;
+    border-radius:0.3em;
+    padding: 1.5vh;
+    font-family: Roboto;
+  }
+  .btnholder>button:hover{
+    box-shadow: -2px 3px 16px 0px rgba(0,0,0,0.58);
+  }
+  .labe{
+      margin-top: 2vmax;
+      margin-left: 2vmax;
+      font-weight: 300;
+  }
+  .fillab{
+    font-weight: 300;
+  }

@@ -1,0 +1,29 @@
+.designSpace{
+    background-color: white;
+    width: 70%;
+    padding:4vmax 3vmax;
+    margin-left: 3vmax;
+    display: flex;
+    margin-top: 2vmax;
+    margin-right: 2vmax ;
+    flex-direction: row;    box-shadow: -2px 3px 16px 0px rgba(0,0,0,0.58);
+}
+.text{
+    padding-left: 3vmax;
+}
+.addcart{
+    background-color: #1976d2;border: none;color:white;
+    border-radius:0.3em;
+    padding: 1.5vh;
+    font-family: Roboto;
+}
+.addcart:hover{
+    box-shadow: -2px 3px 16px 0px rgba(0,0,0,0.58);
+}
+.desicart{
+    background-color: white;
+    box-shadow: -2px 3px 16px 0px rgba(0,0,0,0.58);
+    width: 22vmax; margin-top: 2vmax;
+    height: 41vmax;
+    overflow:scroll;
+}

@@ -1,0 +1,10 @@
+.smallcard{
+    transition: all 0.5s;
+    border:none
+}
+
+.smallcard:hover{
+    border:none;
+    /* box-shadow: -2px 3px 16px 0px rgba(0,0,0,0.58); */
+    transform: translateY(-0.6vmax);
+}

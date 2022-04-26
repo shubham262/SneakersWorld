@@ -1,0 +1,27 @@
+.cardss{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    flex-wrap: wrap;
+    margin-top: 3vmax;
+
+}
+.car{cursor: pointer;
+    margin-right: 3vmax; ;
+    box-shadow: -2px 3px 16px 0px rgba(0,0,0,0.58);
+    transition: all 0.5s;
+}
+.car:hover{
+    transform: translateY(-1vmax);
+    
+}
+.without{   margin-top: 5vmax;
+    font-weight:500;
+}
+.work{
+    font-size: small;
+   font-weight: 450;
+   
+}

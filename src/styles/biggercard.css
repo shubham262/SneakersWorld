@@ -1,0 +1,7 @@
+
+.biiger{
+    transition: all 0.5s;
+}
+.biiger:hover{
+    transform: translateY(-0.6vmax);
+}

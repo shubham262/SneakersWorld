@@ -1,0 +1,31 @@
+.contact{
+    width: 25vmax;
+    height:30vmax;
+    background-color: white;
+    flex-wrap: wrap;
+    margin-left: 40%;
+    margin-top: 4vmax;
+    padding: 2vmax;
+
+    box-shadow: -2px 3px 16px 0px rgba(0,0,0,0.58)
+    
+}
+.inner{
+
+    height:28vmax;
+    padding: 1vmax;
+  
+    align-items: center;
+    justify-content: center;
+    padding: 2vmax;
+    
+
+}
+h5{
+    margin-bottom: 2vmax;
+    font-weight:450;
+}
+h6{
+    margin: 0;
+
+}
